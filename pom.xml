@@ -30,12 +30,12 @@
   <parent>
     <groupId>org.silverpeas</groupId>
     <artifactId>silverpeas-project</artifactId>
-    <version>1.1</version>
+    <version>1.1-build190701</version>
   </parent>
 
   <groupId>org.silverpeas</groupId>
   <artifactId>izpack-installer</artifactId>
-  <version>6.1-SNAPSHOT</version>
+  <version>6.1-rc1</version>
   <name>Silverpeas Izpack Installer</name>
   <packaging>jar</packaging>
 
